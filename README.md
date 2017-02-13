@@ -18,7 +18,7 @@ Complete as many of these as possible. Please use Drupal (PHP) and MySQL for you
   - (Commit a seed SQL file)
 - Create a homepage
   - Using data from database, display a Google Map with markers displaying the branches
-    - If an API key is needed, use AIzaSyDODBvoMEvGETT7FEaReKf5cQ09aqI0jNA
+    - If an API key is needed, use `AIzaSyDODBvoMEvGETT7FEaReKf5cQ09aqI0jNA`
   - Also display an HTML table with branches data
 - Create a create page
   - Display a form to add new branch/location data to database
