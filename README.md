@@ -5,7 +5,7 @@ The repository to be cloned is hosted on GitHub at:
 https://github.com/shixelsstudiosltd/drupal-test
 
 # Background
-Our client, Diamond Bank, is wanting to manage brnach location details online. As part of the initial development, they have provided us with a CSV of four Lagos-area store addresses.
+Our client, Diamond Bank, is wanting to manage branch location details online. As part of the initial development, they have provided us with a CSV of four Lagos-area store addresses.
 The CSV is located in the repository.
 Your goal is to create a simple CRUD app to manage these resources, as well as a view of the locations on a Google Map.
 
